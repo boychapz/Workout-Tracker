@@ -1,3 +1,3 @@
 module.exports = {
-  Cart: require("./workout"),
+  Workout: require("./workout"),
 };
